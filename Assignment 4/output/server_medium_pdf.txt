@@ -1,0 +1,43 @@
+Starting the server with parameters:
+Local server port: 3030
+Connection idle time: 5000 (milli-seconds)
+Initial sequence number: 0
+Drop sequence number: -1
+Average extra ACK delay: 10 (milli-seconds)
+Packet loss probability: 0.100
+Random number generator seed: 2021
+
+Server started. Type "quit" to stop
+.....................................
+incoming connection accepted form /96.51.149.236:51674
+going through the handshake process 
+file name: medium.pdf 
+file length: 393939 Bytes 
+remote UDP port number: 64449 
+sending local UDP port number: 32858 
+sending initial seq number: 0 
+file transfer starting...
+drop: seq = 8 
+drop: seq = 10 
+drop: seq = 14 
+drop: seq = 19 
+drop: seq = 27 
+drop: seq = 41 
+drop: seq = 60 
+drop: seq = 70 
+drop: seq = 82 
+drop: seq = 88 
+drop: seq = 109 
+drop: seq = 117 
+drop: seq = 191 
+drop: seq = 208 
+drop: seq = 221 
+drop: seq = 230 
+drop: seq = 242 
+drop: seq = 242 
+drop: seq = 244 
+drop: seq = 258 
+file transfer completed in 9299 (milli-seconds)
+
+server is shutting down...
+server stopped
